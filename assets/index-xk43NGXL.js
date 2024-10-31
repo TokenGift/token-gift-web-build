@@ -1,0 +1,1 @@
+import{u as o,j as e}from"./index-4SreFlbP.js";import"./with-default-props-Cyy5lWzw.js";import{N as s}from"./nav-bar-COdSzZhR.js";const m=a=>{const r=o(),t=()=>{r(-1)};return e.jsx(s,{onBack:t,backArrow:a.backArrow,children:a.title})};export{m as H};

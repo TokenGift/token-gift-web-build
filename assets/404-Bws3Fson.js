@@ -1,0 +1,1 @@
+import{j as r}from"./index-4SreFlbP.js";import"./with-default-props-Cyy5lWzw.js";import{E as t}from"./error-block-Nj1e_Rur.js";import"./config-provider-BgX57nSa.js";const p=()=>r.jsx("div",{className:"warp",children:r.jsx(t,{status:"empty"})});export{p as default};
